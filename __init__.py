@@ -6,7 +6,7 @@ from PIL import ImageTk
 from sqlitegui import *
 
 root =Tk()
-root.title('Log in portal Tamilarasi@pvt') 
+root.title('Login portal for N.S.N COLLEGE OF ENGINEERING AND TECHNOLOGY ') 
 
 def photo():
     load=Image.open('12.png')
